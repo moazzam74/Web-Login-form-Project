@@ -1,0 +1,126 @@
+        *{
+            padding: 0%;
+            margin: 0%;
+        }
+        h1{
+        background:black; color: white; padding-top:03px;text-emphasis:20px;  font-size: 100%;
+        text-align: left;
+        
+        }
+        
+        #col{
+            text-align: right;  padding:2px;font-size: 100%;text-emphasis:20px;
+          
+        }
+        h2 {
+            background:mediumorchid; color: white; text-align:start;padding: 05px;
+        }
+
+
+
+       h3 {
+        background: blue; color: white; text-align: center; padding: 20px; font-size: 100%; 
+
+        }
+        .status
+        {
+            margin-left: 100px;
+        }
+        .button1
+        {
+        margin-left: 100px; padding:3px; background: burlywood; border-radius: 3px;
+        }
+        #label1{
+            margin-left: 80px;
+            /* customer time:*/
+        }
+        #label2{
+            margin-left: 150px;
+            /* customer time:*/
+        }
+        #label3{
+            margin-left: 200px;
+            /* customer time:*/
+        }
+        h4{
+        margin-left: 580px;
+        }
+        #checkbox
+        {
+            margin-left: 100px;
+        }
+        #recording {
+            margin-left: 100px;
+        }
+        #title 
+        { 
+            margin-left: 50px;
+        }
+        #first
+        {
+            margin-left: 50px;
+        }
+        #recordid
+        {
+            margin-left: 100px;
+        }
+        #address1
+        {
+            margin-left: 80px;
+        }
+        #radio { 
+            margin-left: 100px;
+            height: 25px;
+            width: 25px; background-color: gold;
+         }
+        #address2
+        {
+            margin-left: 130px;
+        }
+        #address3
+        {
+            margin-left: 50px;
+        }
+        .webbutton{
+            margin-left: 100px; padding:3px; background: fuchsia; border-radius: 3px; width: 140px;
+        }
+        #City
+        {
+            margin-left: 24px;
+        }
+        #state
+        {
+            margin-left: 80px;
+        }
+        #vendor
+        {
+            margin-left: 46px;
+        }
+        #gender
+        {
+            margin-left: 32px;
+        }
+        .parkcall
+        {
+            margin-left: 100px; padding:3px; background: fuchsia; border-radius: 3px; width: 140px;
+        }
+        #dail
+        {
+            margin-left: 47px;
+        }
+        #altphone
+        {
+            margin-left: 60px;
+        }
+        .hangup
+        {
+            margin-left: 100px; padding:3px; background: fuchsia; border-radius: 3px; width: 140px;
+        }
+        #comment
+        {
+            margin-left: 23px;
+        }
+        .agentview
+        {
+            margin-left: 930px; padding:3px; background: fuchsia; border-radius: 3px; width: 140px;
+        }
